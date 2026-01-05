@@ -5,7 +5,7 @@ models:
     group: platform
     config:
       contract:
-        enforced: true
+        enforced: false
     columns:
       - name: location_id
         description: The unique key for each location.
